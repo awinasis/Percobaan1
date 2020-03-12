@@ -1,0 +1,16 @@
+
+    <resources>
+        <string name="app_name">Percobaan1</string>
+        <string name="action_address">Address</string>
+        <string-array name="city_name">
+            <item>Kediri</item>
+            <item>Malang</item>
+            <item>Surabaya</item>
+            <item>Jakarta</item>
+            <item>Yogyakarta</item>
+            <item>Solo</item>
+            <item>Sidoarjo</item>
+        </string-array>
+
+        <string name="action_name">Nama :</string>
+    </resources>
